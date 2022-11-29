@@ -1,0 +1,10 @@
+#Dictionary
+Pet_info = {"name": "Stickers", 
+            "age": 7, 
+            "hobbies":["eating", "sleeping", "meowing", "scratching nice things", "cuddling"],
+             "wake":{"Mon": 5, "Tues": 5, "Wed": 5, "Thurs": 5, "Fri": 5, "Sat": 5, "SUN": 5} }
+
+print(f'My pets name is {Pet_info["name"]} and he is {Pet_info["age"]}')
+print(f'{Pet_info["name"]} has {len(Pet_info["hobbies"])} hobbies')
+print(f'{Pet_info["name"]} favorite hobby is {Pet_info["hobbies"][3]}')
+print(f'On Saturday {Pet_info["name"]} gets up at {Pet_info["wake"]["Sat"]}')
