@@ -22,7 +22,7 @@ Below is a summary of several important data points found by the election audit:
 
 Results of the election by candidate and county can be viewed below:
 
-![Election Audit Results](https://github.com/UnBearAble1/Election_Analysis/blob/main/analysis/election_analysis.txt)
+[Election Audit Results](https://github.com/UnBearAble1/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
 ## Election Audit Summary
 
